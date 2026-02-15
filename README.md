@@ -22,5 +22,5 @@ None
 
 ## Created by
 
-Davion Dabney 
+Davion D. Dabney
 
